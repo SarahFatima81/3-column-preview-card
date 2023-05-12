@@ -34,7 +34,7 @@ img {
 .luxury {
   background-color: hsl(179, 100%, 13%);
 }
-h1 {
+h2 {
   font-family: "Big Shoulders Display", sans-serif;
   color: hsl(0, 0%, 95%);
   margin-bottom: 1rem;
@@ -45,8 +45,9 @@ p {
   color: hsla(0, 0%, 100%, 0.75);
   margin-bottom: 5rem;
 }
-.submit:link,
-.submit:visited {
+.btn,
+.btn:link,
+.btn:visited {
   padding: 0.938rem 1.875rem;
   background-color: hsl(0, 0%, 95%);
   text-decoration: none;
@@ -108,9 +109,10 @@ p {
   .card-content {
     padding: 4rem 3.7rem;
   }
-  .submit:link,
-  .submit:visited {
+  .btn:link,
+  .btn:visited {
     padding: 1.1rem 2.2rem;
     font-size: 1.2rem;
   }
 }
+

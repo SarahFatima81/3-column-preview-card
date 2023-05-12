@@ -19,7 +19,7 @@ main {
   overflow: hidden;
 }
 .card-content {
-  padding: 3rem 3rem 4rem 3rem;
+  padding: 3rem 3.2rem 4rem 3rem;
 }
 img {
   margin-bottom: 1.2rem;
@@ -106,7 +106,7 @@ p {
     margin-bottom: 3rem;
   }
   .card-content {
-    padding: 4rem 3.5rem;
+    padding: 4rem 3.7rem;
   }
   .submit:link,
   .submit:visited {
